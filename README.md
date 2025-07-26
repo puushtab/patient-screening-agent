@@ -2,6 +2,8 @@
 
 CuraMe is an intelligent patient screening system that leverages multiple Model Context Protocol (MCP) servers to provide comprehensive healthcare data analysis and screening capabilities.
 
+https://youtu.be/Mnw2OjxiA_s
+
 ## 🏥 Overview
 
 CuraMe integrates with multiple specialized MCP servers to create a powerful patient screening workflow:
